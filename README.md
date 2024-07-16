@@ -124,7 +124,7 @@
       "Discount Applied": parseFloat($("#discount").val())
     },
     success: function () {
-      alert("Form Data Submitted to Spreadsheet and Discord :)");
+      alert("Please press okay!");
       // Reset the form after submission
       resetForm();
     },
