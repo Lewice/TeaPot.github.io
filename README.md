@@ -318,7 +318,11 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
-	
+	<h3>Misc</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="500"> Storage Boxs - 500$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
 	
 	
 	
